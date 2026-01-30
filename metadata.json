@@ -1,0 +1,5 @@
+{
+  "name": "Mercury DQ Portal",
+  "description": "Government Contractor Data Validation Platform MVP. Validates cost data against 5 key business rules before submission.",
+  "requestFramePermissions": []
+}
